@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Card Verifier</string>
+    <string name="aadhar">Verify AADHAR Number</string>
+    <string name="mainAbout">All the Payments/Identification numbers are generated using what is called a Checksum, so these Checksum Algorithms can be reversed and it can be determined whether the entered number is genuine or not.</string>
+    <string name="sec">Checksum Algorithms used in this Application: Luhn\'s Mod 10 Algorithms Verhoff\'s Algorithms Java Hash Code</string>
+    <string name="sec2">Checksum Algorithms used in this Application:\\n Luhn\'s Mod 10 Algorithm\\n Verhoff\'s Algorithms\\n Java Hash Code</string>
+    <string name="warning">Any detail you enter in this application will never be sent anywhere else.</string>
+</resources>
